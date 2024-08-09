@@ -36,9 +36,6 @@ Flask-PyMongo==2.3.0
 Flask-SocketIO==5.3.6
 Flask-SQLAlchemy==3.1.1
 Flask-WTF==1.2.1
-flet==0.20.2
-flet-core==0.20.2
-flet-runtime==0.20.2
 fonttools==4.51.0
 frozenlist==1.4.1
 greenlet==3.0.3
